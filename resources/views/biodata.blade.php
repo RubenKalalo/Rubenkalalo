@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Biodata Horizontal</title>
+  <title>Biodata</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
     * {
@@ -106,7 +106,7 @@
 <body>
   <div class="card">
     <div class="profile-header">
-      <img src="https://i.imgur.com/0y0y0y0.jpg" alt="Foto Profil" class="profile-img" />
+      <img src="IMG/poto profile.jpg" alt="Foto Profil" class="profile-img" />
       <div class="profile-text">
         <h2>Ruben Kalalo</h2>
         <h3>Pelajar | Bos Muda</h3>
@@ -115,11 +115,11 @@
 
     <div class="biodata">
       <p><span class="label">Nama Lengkap:</span> Ruben Kalalo</p>
-      <p><span class="label">Tempat, Tanggal Lahir:</span> Manado, 1 Januari 2007</p>
+      <p><span class="label">Tempat, Tanggal Lahir:</span> Perawang, 6 september 2007</p>
       <p><span class="label">Jenis Kelamin:</span> Laki-laki</p>
-      <p><span class="label">Alamat:</span> Jl. Merdeka No. 123, Manado</p>
-      <p><span class="label">Hobi:</span> Ngoding, Desain Web, Membaca</p>
-      <p><span class="label">Cita-cita:</span> Software Engineer</p>
+      <p><span class="label">Alamat:</span> Jl. Hasyim Idris, Pangkallalang</p>
+      <p><span class="label">Hobi:</span> Explore alam</p>
+      <p><span class="label">Cita-cita:</span> Nanuna</p>
     </div>
   </div>
 </body>
